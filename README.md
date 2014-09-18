@@ -1,2 +1,3 @@
-mocha-intellij
-==============
+[Mocha](http://visionmedia.github.io/mocha/) reporter for WebStorm and other IntelliJ IDEs (IntelliJ IDEA, PhpStorm, RubyMine, PyCharm, etc).
+
+No need to install it manually, it's bundled with [NodeJS](http://plugins.jetbrains.com/plugin/6098) plugin.
